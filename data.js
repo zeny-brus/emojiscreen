@@ -886,6 +886,13 @@ const emojiItems = [
         year: 1999
     },
     {
+        title: "Sons of Anarchy",
+        emojiImgs:"👱🚴💀🔫",
+        genres:["crime","drama","thriller"],
+        type: "tv",
+        year: 2008
+    },
+    {
         title: "Steven Universe",
         emojiImgs: "👦🏻💎💎💎🛡️",
         genres: ["comedy"],
