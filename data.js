@@ -985,6 +985,13 @@ const emojiItems = [
         year: 1971
     },
     {
+        title: "The Wiz",
+        emojiImgs:"👩🏫🐕🤖🎃",
+        genres:["fantasy","musical"],
+        type:"musical",
+        year: 1978
+    },
+    {
         title: "X-Files",
         emojiImgs: "👽🛸👦🏻👩‍🦰🔦",
         genres: ["sci-fi", "drama", "mystery"],
