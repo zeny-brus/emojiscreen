@@ -725,6 +725,13 @@ const emojiItems = [
         year: 2001
     },
     {
+        title: "Peppa Pig",
+        emojiImgs: "🐖🐖🐖🐖",
+        genres: ["animation","short","family"],
+        type: "tv",
+        year: 2004
+    },
+    {
         title: "Pet Sematary",
         emojiImgs: "🐶🐱☠️⚰️",
         genres: ["horror", "thriller", "mystery"],
