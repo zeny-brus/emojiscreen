@@ -241,6 +241,13 @@ const emojiItems = [
         year: 2019
     },
     {
+        title: "Edward Scissorhands",
+        emojiImgs: "👤✌️✂️💇",
+        genres: ["drama","romance","fantasy"],
+        type: "movie",
+        year: 1991
+    },
+    {
         title: "E.T. the Extra-Terrestrial",
         emojiImgs: "🌙🚲👉🏻👈🏻👽",
         genres: ["family", "sci-fi"],
